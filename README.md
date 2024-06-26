@@ -23,5 +23,10 @@ Objective: To compare the traditional Markowitz optimized portfolio with the EW 
 ## Conclusion
 The project demonstrates that while the Markowitz procedure theoretically offers optimal portfolios, its practical application is fraught with difficulties due to estimation errors. By comparing it with the simpler EW and GMV portfolios, the project highlights the potential benefits of these alternative strategies. The EW portfolio, despite its simplicity, often performs remarkably well, and the GMV portfolio provides a robust, low-risk option without relying on precise return estimates. This exploration underscores the importance of considering robustness and simplicity in portfolio construction, especially in the face of uncertain data.
 
+# How to Start 
 
+### I have provided the code file and also the file which contains all the function I have used. Along with that I have also provided the CSV files which I have used in the project. Kindly download all the files and change the required path of csv files in edhec_risk_kit_111.py. If you encounter any problem mail me 
+#### ashishk93358@gmail.com
+
+## Thank You
 
